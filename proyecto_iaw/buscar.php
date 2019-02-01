@@ -67,7 +67,7 @@ if ($nombre or $apellido1 or $apellido2 or $login){
         }
 
     }
-}
+} 
 else{
     $query="select * from usuarios ";
 }
